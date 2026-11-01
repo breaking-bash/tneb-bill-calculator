@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-31T08:30:12.751Z",
+  "checkedAt": "2026-11-01T09:21:12.685Z",
   "result": "error",
-  "runUrl": "https://github.com/itsnavin/tneb-bill-calculator/actions/runs/41184731598",
+  "runUrl": "https://github.com/itsnavin/tneb-bill-calculator/actions/runs/41292614582",
   "lastSuccessfulFetchAt": "2026-10-19T20:47:49.082Z",
   "lastUnchangedAt": "2026-10-19T20:47:49.082Z",
   "currentRatesVerified": false,
@@ -18,7 +18,7 @@
         "id": "tnpdcl-tariff",
         "url": "https://www.tnpdcl.org/en/tnpdcl/billing-services/schedules-tariff/",
         "resolvedUrl": "https://www.tnpdcl.org/en/tnpdcl/billing-services/schedules-tariff/",
-        "sha256": "2b4f11b8670368a6f6d43744a5522a874af5071f7ddc9ab63b6ec2c45817fac6",
+        "sha256": "8c7d83226c1f6bd2963e7d97c80943b7f800f2686599ffd226e6befd2e9d93b5",
         "selectedYear": null,
         "entries": [
           {
